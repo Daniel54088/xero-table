@@ -24,6 +24,11 @@
 The goal of this project is to build a simple one-page application to display the Balance Sheet Report from Xero. This frontend application is built using TypeScript and React. It fetches data from a backend API and displays the results in a structured table format.
 </p>
 
+- Fetches and displays the Balance Sheet Report from Xero API. <br>
+- Displays data in a table format for easy readability.<br>
+- Handles errors gracefully and provides informative feedback to the user.<br>
+- Includes unit tests to ensure reliability and correctness.<br>
+
 <p align="center">
   <img src="/public/preview.png" alt="app structure" width="70%" height="70%">        
 </p>
